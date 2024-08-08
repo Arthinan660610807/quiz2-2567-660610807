@@ -11,12 +11,6 @@ import { useState } from "react";
 
 export default function Home() {
 
-  const [PostOwnnerProps] =useState({
-    ImagePath : /public/profileImages/ee56ba71-aada-40c6-92cc-755c9e5f0d8a.jpg,
-    username:Arthinan Changsawang
-    id : 660610807,
-    likes : 1
-  });
 
   return (
     <div
